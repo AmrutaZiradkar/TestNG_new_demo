@@ -6,4 +6,10 @@ public class NewTest {
 	  
 	  System.out.println("hello");
   }
+
+  @Test
+  public void login() {
+	  
+	  System.out.println("login_page");
+  }
 }
