@@ -10,6 +10,6 @@ public class NewTest {
   @Test
   public void login() {
 	  
-	  System.out.println("login_page");
+	  System.out.println("login_page1111111111111111");
   }
 }
